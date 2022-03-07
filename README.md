@@ -14,4 +14,6 @@
 -   MySQL
 -   Node.js
 -   Express.js.
-- 
+-  React
+-  MangoDB
+-  Mangoose
